@@ -1,19 +1,19 @@
-import { Route, Routes } from "react-router-dom";
-import { lazy, Suspense } from 'react';
+// import { Route, Routes } from "react-router-dom";
+// import { lazy, Suspense } from 'react';
 
-// export const App = () => {
-//   return (
-//     <div
-//       style={{
-//         height: '100vh',
-//         display: 'flex',
-//         justifyContent: 'center',
-//         alignItems: 'center',
-//         fontSize: 40,
-//         color: '#010101'
-//       }}
-//     >
-//       React homework template
-//     </div>
-//   );
-// };
+export const App = () => {
+  return (
+    <div
+      style={{
+        height: '100vh',
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center',
+        fontSize: 40,
+        color: '#010101'
+      }}
+    >
+      React homework template
+    </div>
+  );
+};
